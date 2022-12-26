@@ -7,8 +7,8 @@
   a utilzação da função de array map, para renderização dos cards para utilização.</p>
 
   <p>Itens no carrinho são adicionados de maneira dinâmica através de alvos de evento.</p>
-
-
+  <p>A estilização é básica, o foco é o script</p>
+  
   <p>Se te ajudei, coloca uma :star: Obrigado! :heart:</p>
 
 </div>
