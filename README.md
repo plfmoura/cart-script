@@ -11,4 +11,5 @@
   
   <p>Se te ajudei, coloca uma :star: Obrigado! :heart:</p>
 
+Pedro Moura
 </div>
